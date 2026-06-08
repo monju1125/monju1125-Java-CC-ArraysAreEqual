@@ -23,6 +23,6 @@ public class ArraysAreEqual {
                     }
                 return true;
             }
-        return true;
+        return false;
     }
 }
